@@ -10,7 +10,7 @@
 
 * body header {
   background-color: #96c5dc;
-  position: absolute;
+  position: fixed;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

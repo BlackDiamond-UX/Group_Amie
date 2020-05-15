@@ -10,7 +10,7 @@
   font-weight: 700; }
   * body header {
     background-color: #96c5dc;
-    position: absolute;
+    position: fixed;
     display: flex;
     justify-content: space-between;
     width: 100%;
